@@ -1,0 +1,10 @@
+{
+    "domain": "mqtt_export",
+    "name": "MQTT Export",
+    "documentation": "https://github.com/aroerdink/home-assistant-mqtt-export",
+    "dependencies": ["mqtt"],
+    "codeowners": [],
+    "requirements": [],
+    "iot_class": "local_polling",
+    "version": "0.1.0"
+  }

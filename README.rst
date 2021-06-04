@@ -6,7 +6,7 @@ Custom MQTT export component for Home Assistant.
 Setup
 -----
 
-Put the file ``mqtt_export.py`` file in the folder ``custom_components`` of
+Put the folder ``mqtt_export`` file in the folder ``custom_components`` of
 your local Home Assistant configuration folder ``.homeassistant``.
 
 Your ``configuration.yaml`` file needs an entry for the component including
